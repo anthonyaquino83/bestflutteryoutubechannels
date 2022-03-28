@@ -8,9 +8,9 @@ A repository that curates the best Flutter YouTube channels.
 
 The lists are language and alphabetically sorted.
 
-For a channel to be included in the list it must have a good amount of Flutter related content.
+For a channel to be included in the lists it must have a good amount of Flutter related content.
 
-The channels with :+1: means Flutter it's the main content in the channel.
+The channels with :+1: means Flutter is the main content in the channel.
 
 The description has author and Flutter content type.
 
