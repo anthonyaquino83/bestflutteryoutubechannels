@@ -27,6 +27,7 @@ The description has author and Flutter content type.
 - [CodeToDo](https://www.youtube.com/channel/UCWJ65l5tSDnCJTrFp185qeQ) - UI design. :+1:
 - [CodeX](https://www.youtube.com/channel/UCQ00Ywz-ygK-yHzKluEsABA) - General, GetX, Bloc pattern, AdMob, UI design. :+1:
 - [Coding Cafe](https://www.youtube.com/channel/UCIHBIPape0dWHKANkivrcJw) - Muhammad Ali Zeb. General, Flutter Web, Firebase, UI design, GetX. :+1:
+- [Coding with Hadi](https://www.youtube.com/@codingwithhadi) - Hadi Kachmar. Firebase, Rest. :+1:
 - [dbestech](url) - General, animations, state management, Dart, provider, Flutter bloc, GetX. :+1:
 - [Easy Approach](https://www.youtube.com/channel/UC4hWRtPpBaq72ERUuKsvO7g) - Maaz Aftab. General, state management, Firebase. :+1:
 - [Fidev](https://www.youtube.com/channel/UCM8qsVZh9pLKL-7uD8nmb0A) - UI design. :+1:
